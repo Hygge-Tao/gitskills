@@ -1,3 +1,5 @@
+
+
 # Testing vscode-markdown-latex
 ## this is just for Testing
 
@@ -7,7 +9,16 @@
 
 >引用
 
-[百度]{https://www.baidu.com}
+[百度](https://www.baidu.com)
 
-![miku]{C:\Users\Administrator\Pictures\miku.jpg}
-$$\alpha+\beta=\gamma$$
+![](file:///C:/Users/Administrator/Pictures/miku.jpg)
+
+
+```python
+print("hello")
+```
+
+![](http://latex.codecogs.com/gif.latex?\frac{1}{1+sin(x)})
+
+
+![](http://latex.codecogs.com/gif.latex?\alpha+\beta=\gamma)
