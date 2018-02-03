@@ -16,7 +16,7 @@
 print("hello")
 ```
 
-test ![](http://latex.codecogs.com/gif.latex?\\lim_{x\to0}\frac{x}{\sin x}) test
+test ![](http://latex.codecogs.com/gif.latex?\$\lim_{x\to0}\frac{x}{\sin(x)}$) test
 
 test ![](http://latex.codecogs.com/gif.latex?\alpha+\beta=\gamma) test
 
