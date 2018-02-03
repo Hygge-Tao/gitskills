@@ -1,5 +1,3 @@
-
-
 # Testing vscode-markdown-latex
 ## this is just for Testing
 
@@ -18,7 +16,7 @@
 print("hello")
 ```
 
-![](http://latex.codecogs.com/gif.latex?\frac{1}{1+sin(x)})
+test ![](http://latex.codecogs.com/gif.latex?\frac{1}{1+sin(x)}) test
 
 
-![](http://latex.codecogs.com/gif.latex?\alpha+\beta=\gamma)
+test ![](http://latex.codecogs.com/gif.latex?\alpha+\beta=\gamma) test
