@@ -16,12 +16,8 @@
 print("hello")
 ```
 
-test ![](http://latex.codecogs.com/gif.latex?
-\[
-\lim_{x\to0}\frac{x}{\sin x}
-\]) test
-
+test ![](http://latex.codecogs.com/gif.latex?\\lim_{x\to0}\frac{x}{\sin x}) test
 
 test ![](http://latex.codecogs.com/gif.latex?\alpha+\beta=\gamma) test
 
-test ![](http://latex.codecogs.com/gif.latex?\sqrt{x} \Leftrightarrow x^{1/2} \quad \sqrt[x^2 + y^2]{3}) test
+test ![](http://latex.codecogs.com/gif.latex?\\sqrt{x} \Leftrightarrow x^{1/2} \quad \sqrt[x^2 + y^2]{3}) test
