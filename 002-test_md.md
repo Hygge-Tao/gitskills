@@ -1,3 +1,12 @@
+<script type="text/javascript"
+src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+tex2jax: {inlineMath: [['$','$'], ['\(','\)']]}
+});
+</script>
+
 # Testing vscode-markdown-latex
 ## this is just for Testing
 
@@ -16,7 +25,7 @@
 print("hello")
 ```
 
-test ![](http://latex.codecogs.com/gif.latex?\$\lim_{x\to0}\frac{x}{\sin(x)}$) test
+$1+1=2$
 
 test ![](http://latex.codecogs.com/gif.latex?\alpha+\beta=\gamma) test
 
