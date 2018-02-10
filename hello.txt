@@ -1,11 +1,5 @@
 this is hello.txt
-
-
 made by dev
-
-
 not finished yet
-
 ok, I have just bought a brand new laptop, so...
-
 tried again these basic functions of git
